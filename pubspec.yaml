@@ -1,7 +1,7 @@
 name: duraspeed_checker
 description: "A Flutter plugin for Android to detect the presence and status of DuraSpeed"
 version: 0.0.1
-homepage:
+homepage: https://github.com/ShayKisten/duraspeed_checker
 
 environment:
   sdk: ^3.6.1
